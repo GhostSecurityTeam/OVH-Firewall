@@ -1,4 +1,6 @@
-echo "OVH Setup Ubuntu 16.04"
+#Note To Yourself. Remember to Read README.MD !
+
+echo "OVH Setup Ubuntu 18.04"
 
 apt-get update
 
